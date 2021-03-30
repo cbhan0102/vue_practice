@@ -1,5 +1,4 @@
 # vue_amuse 
-[ 머지 전이라,최종 코드는 pracice에 있습니다:) ]
 
 ## Project setup
 ```
