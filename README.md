@@ -1,4 +1,5 @@
-# vue_amuse
+# vue_amuse 
+[ 머지 전이라,최종 코드는 pracice에 있습니다:) ]
 
 ## Project setup
 ```
@@ -9,16 +10,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
